@@ -2,10 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: 'CustomFont';
-    src: url('/fonts/spaceage.ttf') format('woff2'),
-         url('/fonts/spaceage.ttf') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
